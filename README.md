@@ -4,6 +4,7 @@ Project over-view
 A simple command-line calculator built with Python. The program allows users to perform basic arithmetic operations while demonstrating input validation and exception handling. 
 
 🎯Purpose 
+
 This project was created to practice Python fundamentals with a focus on exception handling, input validation and creating an interactive command-line program.
 
 Features 
@@ -37,6 +38,7 @@ Skills Demonstrated
 * Loops 
 
 What I learned 💭
+
 I practised handling user input and managing error in Python. I learned how try, except, else and finally work together in order to make a program more reliable and easier to manage when unexpected input or errors occur. 
 
 
