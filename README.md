@@ -7,6 +7,13 @@ A simple command-line calculator built with Python. The program allows users to 
 
 This project was created to practice Python fundamentals with a focus on exception handling, input validation and creating an interactive command-line program.
 
+Tech Stack 
+
+* Python – Programming language used to build the calculator
+* Python Standard Library – Used for input handling and exception management
+* VS Code – Development environment
+* Git & GitHub – Version control and project hosting
+
 Features 
 - Addition ➕, Subtraction ➖, Multiplication ✖️, Division➗
 - User-friendly operation menu
